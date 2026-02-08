@@ -1,5 +1,7 @@
-[[[<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/7dbd2db5-b67c-42e1-aa1b-f7d9fc24b952" />](https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg)](https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg)](https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg)
+RUSSIAN.
+
 📄 WORD EDITOR
+
 Word Editor — это удобное приложение на Windows Forms для автоматического создания и заполнения документов Microsoft Word по шаблонам.
 Программа позволяет быстро генерировать заявления, объяснительные и докладные записки, подставляя данные пользователя в нужные места.
 
@@ -45,7 +47,10 @@ Data Serialization: Newtonsoft.Json
 
 
 
+ENGLISH.
+
 📄 WORD EDITOR
+
 Word Editor is a lightweight Windows Forms application designed to automate the creation of Word documents based on pre-defined templates.
 It allows users to quickly generate official documents (Statements, Explanatory notes, Reports) by filling in a simple form.
 
