@@ -41,3 +41,42 @@ Data Serialization: Newtonsoft.Json
 Убедитесь, что в папке с .exe файлом находятся шаблоны (statement_ru.docx, expl_en.docx и т.д.).
 
 Запустите AutoWord.exe.
+
+
+
+📄 WORD EDITOR
+Word Editor is a lightweight Windows Forms application designed to automate the creation of Word documents based on pre-defined templates.
+It allows users to quickly generate official documents (Statements, Explanatory notes, Reports) by filling in a simple form.
+
+Key Highlight: The application works standalone and does not require Microsoft Word (Office) to be installed!
+
+🚀 Features
+⚡ Standalone: Generates .docx files without Microsoft Office Interop (powered by DocX library).
+
+🎨 Modern UI: Clean interface built with Material Design.
+
+🌗 Theme Support: Instant switching between Dark and Light modes.
+
+🌍 Localization: Full support for Russian and English languages (interface & templates).
+
+💾 Draft System: Save your input data as JSON drafts and reload them later to edit previous documents.
+
+📝 Flexible Templates: Uses tag-based replacement (e.g., <NAME>, <DATE>) inside standard Word files.
+
+🛠 Tech Stack
+C# (.NET Framework)
+
+WinForms + MaterialSkin.2
+
+Xceed.Words.NET (for docx manipulation)
+
+Newtonsoft.Json (for saving drafts)
+
+📂 How to use
+Select the document type from the main menu.
+
+Fill in the generated fields.
+
+Click "Save". The app replaces tags in the template with your data.
+
+Use "Load Draft" to restore data from previous sessions.
